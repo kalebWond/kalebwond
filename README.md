@@ -1,4 +1,4 @@
-## Hi there 👋
+a Software Engineer focused on building scalable web and microservice applications using React, Java, Node.js, Python, and AWS. I enjoy designing cloud-native systems and experimenting with AI agents, LLM apps, and intelligent automation. Always open to collaboration on impactful projects in full-stack development, microservices, and AI-powered tools.## Hi there 👋
 
 <!--
 **kalebWond/kalebwond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
