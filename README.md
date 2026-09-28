@@ -28,7 +28,7 @@ I build web systems that hold up under real traffic, and add AI features that wo
   <tr>
     <td width="33%" valign="top">
       <h3>📡 Live at scale</h3>
-      A real-time SMS voting platform for a live national TV contest. Java, Spring Boot, Kafka and React, sustaining <b>1,000+ req/sec</b>, peaking above <b>3,000</b>, with <b>zero downtime</b> on air.
+      A real-time SMS voting platform for a live national TV contest. Go, TypeScript, Kafka and NextJS, sustaining <b>10,000+ req/sec</b>, peaking above <b>20,000</b>, with <b>zero downtime</b> on air.
     </td>
     <td width="33%" valign="top">
       <h3>🤖 AI in production</h3>
